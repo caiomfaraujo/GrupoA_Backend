@@ -1,0 +1,18 @@
+﻿.swagger-ui .topbar-wrapper img {
+    content: url('/swagger-ui/image/Logo.PNG');
+    width: auto;
+    height: auto;
+}
+.swagger-ui .topbar {
+    background: #fff;
+    border-bottom: 1px #00a335 solid;
+    -webkit-box-shadow: 0 4px 6px -6px #00a335;
+    -moz-box-shadow: 0 4px 6px -6px #00a335;
+    box-shadow: 0 4px 6px -6px #00a335;
+}
+.swagger-ui .topbar .download-url-wrapper .select-label span {
+        color: #00a335;
+}
+.swagger-ui .topbar a span {
+   display: none;
+}
