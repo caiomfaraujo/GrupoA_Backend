@@ -6,4 +6,4 @@ Executar o projeto:
 
 2 - Rodar projeto no Visual Studio 2019
 
-OBS: Verificar o Appsettings e adequar a sua realidade, referente a ConnectionStringg.
+OBS: Verificar o Appsettings e adequar a sua realidade, referente a ConnectionString.
